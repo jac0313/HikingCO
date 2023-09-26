@@ -1,4 +1,4 @@
-Created a new website using HTML and Bootstrap. The website includes the following:
+Created a new website with tips for visiting and hiking Colorado using HTML and Bootstrap. The website includes the following:
 At least 2 pages.
 A Bootstrap navbar, table, and form.
 Bootstrap grid used throughout to format elements
